@@ -1,3 +1,5 @@
 hello world
 
 change - fix bug 1
+
+change - fix bug 2
