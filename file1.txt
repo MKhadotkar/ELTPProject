@@ -1,9 +1,10 @@
 hello world
 
 
-change: - fix bug 1
+change 1: - fix bug 1
 
-change: - by team mate for WI5
+change 2: - by team mate for WI5
 
-change: - fix bug 2
+change 3: - fix bug 2
 
+change 4: - by team mate for WI6 - login feature
