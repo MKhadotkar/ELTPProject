@@ -1,5 +1,9 @@
 hello world
 
+
 change: - fix bug 1
 
 change: - by team mate for WI5
+
+change: - fix bug 2
+
