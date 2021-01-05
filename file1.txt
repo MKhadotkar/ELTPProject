@@ -2,14 +2,16 @@ hello world
 
 
 
-change 1: -> fix bug 1.
+change 1: -> Fix bug 1.
 
-change 2: -> by team mate for WI5.
+change 2: -> By team mate for WI5.
 
-change 3: -> fix bug 2.
+change 3: -> Fix bug 2.
 
-change 4:-> new line added as cr1.
+change 4:-> New line added as cr1.
 
-change 5: -> by team mate for WI6 - login feature.
+change 5: -> By team mate for WI6 - login feature.
 
-change 6: -> on remote master by team mate to check conflict CR2
+change 6: -> On remote master by team mate to check conflict CR2.
+
+change 7: -> WI9: to check conflict .
